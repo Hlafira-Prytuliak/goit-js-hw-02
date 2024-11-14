@@ -12,7 +12,7 @@ function getShippingCost(country) {
             price = 170;
             break;
         case "Jamaica":
-            price120;
+            price = 120;
             break;
         default:
             return "Sorry, there is no delivery to your country";
